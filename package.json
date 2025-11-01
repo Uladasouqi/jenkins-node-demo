@@ -1,0 +1,12 @@
+{
+  "name": "jenkins-node-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
